@@ -6,4 +6,4 @@ a=5;
 b=6;
 c=7;
 c=a+b;
-document.getElementById('demo')= c;
+document.getElementById('demo').innerHTML= c;
